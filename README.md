@@ -42,7 +42,9 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
-## RESULT:
+![alt text](image1.png)
+![alt text](<ex 4.1.png>)
 
+## RESULT:
 Thus, the cut section for solid model is created.
 
